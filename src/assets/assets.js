@@ -31,6 +31,7 @@ import dashboard_icon_1 from './dashboard_icon_1.svg'
 import dashboard_icon_2 from './dashboard_icon_2.svg'
 import dashboard_icon_3 from './dashboard_icon_3.svg'
 import dashboard_icon_4 from './dashboard_icon_4.svg'
+import The_Mahan_Blog from './The_Mahan_Blog.svg'
 
 
 export const assets = {
@@ -38,6 +39,7 @@ export const assets = {
     googleplus_icon,
     twitter_icon,
     logo,
+    The_Mahan_Blog,
     arrow,
     logo_light,
     blog_icon,
