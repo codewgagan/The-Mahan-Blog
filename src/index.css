@@ -9,4 +9,7 @@
   display: none;
 }
 
-/* primary color 5044e5*/
+@theme{
+
+  --color-primary:  #5044E5;
+}
